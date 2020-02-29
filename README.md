@@ -40,13 +40,13 @@ The tech stack is as follows :
 
 ### Problem - Current Scenario
 
-![Current Scenario](https://github.com/joyosive/aliyda/blob/master/Screenshot from 2020-02-29 16-28-22.png)
+![Current Scenario](https://github.com/joyosive/aliyda/blob/master/CurrentScenario.png)
 
 
 
 ### Stakeholders in Scenario
 
-![Stakeholders](https://github.com/joyosive/aliyda/blob/master/Screenshot from 2020-02-29 16-18-52.png)
+![Stakeholders](https://github.com/joyosive/aliyda/blob/master/Stakeholders.png)
 
 
 
